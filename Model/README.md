@@ -4,6 +4,8 @@
 
 ## Some Model Stats:
 
+### 11 MIDI instruments with octo velocity
+
 ### Trained upon ~260k middle MIDI excerpts for ~44 hours on dual A6000 GPUs @ 28 batches
 
 ### FLoss 0.6129 CE
