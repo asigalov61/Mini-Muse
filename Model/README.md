@@ -12,6 +12,9 @@
 ### VFLoss 0.5098 CE
 ### Acc 0.8218 CE
 
+***
+
+![sim-pos-emb (1)](https://user-images.githubusercontent.com/56325539/189257931-8ca50319-c977-47d7-ae29-eee748683b4d.png)
 
 ***
 
