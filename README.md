@@ -1,6 +1,13 @@
 # Mini Muse
 ## A miniature replica of OpenAI's MuseNet
 
+***
+
+## UPDATE 09/10/2022: Mini-Muse is depreceated
+## Please see [Euterpe](https://github.com/asigalov61/Euterpe)
+
+***
+
 [![Open In Colab][colab-badge]][colab-notebook3]
 
 [colab-notebook3]: <https://colab.research.google.com/github/asigalov61/Mini-Muse/blob/main/Mini_Muse.ipynb>
